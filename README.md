@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, I'm Ruler90 :crown:
 
-<!--
-**Ruler90/Ruler90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub Profile
 
-Here are some ideas to get you started:
+```javascript
+const Ruler90 = {
+    name: "Marcin",
+    age: "30",
+    country: "Poland",
+    quickInfo: "Self-taught front-end developer since February 2017",
+    code: ["HTML", "CSS", "Javascript"],
+    stack: {
+        css: ["SASS", "BEM"],
+        javaScript: ["Vanilla JS", "React"],
+        design: ["RWD"]
+    },
+    favouriteCodeEditor: "Visual Studio Code",
+    primaryTasks: [
+    "coding websites / landing pages",
+    "fixing / modifying websites",
+    "Chrome Extensions"
+    ]
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const futurePlans = {
+    learn: [
+    "Unit testing in JS and React",
+    "React Native",
+    "React VR",
+    "Svelte"
+    ] 
+}
+```
