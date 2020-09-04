@@ -10,7 +10,7 @@ const Ruler90 = {
     quickInfo: "Self-taught front-end developer since February 2017",
     code: ["HTML", "CSS", "Javascript"],
     stack: {
-        css: ["SASS", "BEM"],
+        css: ["SASS", "BEM", "Animations"],
         javaScript: ["Vanilla JS", "React"],
         design: ["RWD"]
     },
