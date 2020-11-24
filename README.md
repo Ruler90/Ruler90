@@ -11,8 +11,8 @@ const Ruler90 = {
     code: ["HTML", "CSS", "Javascript"],
     stack: {
         css: ["SASS", "BEM", "Animations"],
-        javaScript: ["Vanilla JS", "React"],
-        design: ["RWD"]
+        javaScript: ["ES5/6", "React"],
+        design: ["RWD", "SEO", "UX"]
     },
     favouriteCodeEditor: "Visual Studio Code",
     primaryTasks: [
@@ -24,6 +24,7 @@ const Ruler90 = {
 
 const futurePlans = {
     learn: [
+    "Project designs in Figma",
     "Unit testing in JS and React",
     "React Native",
     "React VR",
