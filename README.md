@@ -20,8 +20,8 @@ const Ruler90 = {
     "coding websites / landing pages",
     "fixing / modifying websites",
     "Chrome Extensions"
-    ]
-}
+    ],
+};
 
 const futurePlans = {
     learn: [
@@ -29,6 +29,6 @@ const futurePlans = {
     "React Native",
     "React VR",
     "Svelte"
-    ] 
-}
+    ],
+};
 ```
