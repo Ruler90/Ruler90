@@ -5,7 +5,7 @@
 ```javascript
 const Ruler90 = {
     name: "Marcin",
-    age: "30",
+    age: "31",
     country: "Poland",
     quickInfo: "Self-taught front-end developer since February 2017",
     code: ["HTML", "CSS", "Javascript"],
