@@ -3,7 +3,7 @@
 ## Welcome to my GitHub Profile
 
 ```javascript
-const Ruler90 = {
+const ruler90 = {
     name: "Marcin",
     age: "31",
     country: "Poland",
