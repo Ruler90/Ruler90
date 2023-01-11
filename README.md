@@ -11,8 +11,9 @@ const ruler90 = {
     code: ["HTML", "CSS", "Javascript"],
     stack: {
         css: ["Sass/SCSS", "BEM", "Animations"],
-        javaScript: ["ES5/6", "React", "emotion"],
-        design: ["RWD", "SEO", "UX"]
+        js: ["ES5/6", "React", "TypeScript", "emotion"],
+        design: ["RWD", "UX"],
+        other: ["SEO", "Analytics"]
     },
     favouriteCodeEditor: "Visual Studio Code",
     favouriteDesignTool: "Figma",
