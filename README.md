@@ -5,7 +5,7 @@
 ```javascript
 const ruler90 = {
     name: "Marcin",
-    age: "32",
+    age: "33",
     country: "Poland",
     quickInfo: "Frontend developer since February 2017",
     code: ["HTML", "CSS", "Javascript"],
@@ -19,7 +19,8 @@ const ruler90 = {
     primaryTasks: [
     "coding websites / landing pages",
     "fixing / modifying websites",
-    "Chrome Extensions"
+    "improving usability of the e-commerce store",
+    "coding the helpful tools"
     ],
 };
 
