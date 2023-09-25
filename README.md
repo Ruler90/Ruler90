@@ -7,7 +7,7 @@ const ruler90 = {
     name: "Marcin",
     age: "33",
     country: "Poland",
-    quickInfo: "Frontend developer since February 2017",
+    quickInfo: "Frontend Developer",
     code: ["HTML", "CSS", "Javascript"],
     stack: {
         css: ["Sass/SCSS", "BEM", "Animations"],
@@ -18,20 +18,9 @@ const ruler90 = {
     favouriteCodeEditor: "Visual Studio Code",
     favouriteDesignTool: "Figma",
     primaryTasks: [
+    "development and maintenance of the e-commerce store",
     "coding websites / landing pages",
-    "fixing / modifying websites",
-    "improving usability of the e-commerce store",
-    "coding the helpful tools"
-    ],
-};
-
-const futurePlans = {
-    learn: [
-    "GraphQL",
-    "Unit testing in JS and React",
-    "React Native",
-    "React VR",
-    "Svelte"
+    "creation of tools to assist in daily work"
     ],
 };
 ```
