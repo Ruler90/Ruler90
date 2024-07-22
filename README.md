@@ -5,7 +5,7 @@
 ```javascript
 const ruler90 = {
     name: "Marcin",
-    age: "33",
+    age: "34",
     country: "Poland",
     quickInfo: "Frontend Developer",
     code: ["HTML", "CSS", "Javascript"],
@@ -13,7 +13,7 @@ const ruler90 = {
         css: ["Sass/SCSS", "BEM", "Animations"],
         js: ["ES5/6", "React", "TypeScript", "emotion"],
         design: ["RWD", "UX"],
-        other: ["SEO", "Analytics"]
+        other: ["SEO", "Analytics", "Basics of Python", "AI"]
     },
     favouriteCodeEditor: "Visual Studio Code",
     favouriteDesignTool: "Figma",
